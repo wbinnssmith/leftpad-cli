@@ -1,6 +1,6 @@
 {
   "name": "leftpad-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The power of left-pad available as a cli",
   "main": "index.js",
   "scripts": {
