@@ -1,0 +1,21 @@
+{
+  "name": "leftpad-cli",
+  "version": "1.0.0",
+  "description": "The power of left-pad available as a cli",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "leftpad": "index.js"
+  },
+  "keywords": [
+    "left-pad",
+    "leftpad"
+  ],
+  "author": "Will Binns-Smith <wbinnssmith@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "leftpad-stream": "^1.0.0"
+  }
+}
